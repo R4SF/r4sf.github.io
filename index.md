@@ -1,5 +1,14 @@
-Here you can say lots of fun things about your site.
+## About Us
 
-Maybe say a some things about yourself.
+---
 
-Or maybe what you plan to blog about.
+### Mission
+
+We function as a central platform for radiologists to actively engage, collaborate, and champion environmental sustainability within the realm of Radiology. Through the coordination of events, dissemination of educational materials, advocacy for policies, pursuit of research opportunities, and diverse activities, our aim is to elevate sustainability and mitigate the environmental impact of radiology.
+
+---
+
+### Current Initiatives
+
+Our work is driven by our commitment to do our part in creating a sustainable future for the healthcare industry. To effectively execute our mission, we've organized our work into three specialized subcommittees: Education, Research, and Policy. Our multifaceted approach includes advocating for policies that propel environmental sustainability within radiology organizations, offering educational opportunities to foster sustainability in both radiology and broader healthcare institutions, and undertaking initiatives to systematically measure and reduce the environmental footprint of radiology.
+
