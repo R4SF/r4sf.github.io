@@ -1,5 +1,7 @@
 ## About Us
 
+Welcome to Radiologists for a Sustainable Future! We are a group of volunteer radiology attendings, fellows, residents, and medical students who are passionate about reducing greenhouse gas emissions and waste in radiology departments. We believe that by working together, we can make a positive impact on the environment and promote a culture of sustainability within our hospitals.
+
 ---
 
 ### Mission
