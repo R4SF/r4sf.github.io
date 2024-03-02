@@ -14,3 +14,7 @@ We function as a central platform for radiologists to actively engage, collabora
 
 Our work is driven by our commitment to do our part in creating a sustainable future for the healthcare industry. To effectively execute our mission, we've organized our work into three specialized subcommittees: Education, Research, and Policy. Our multifaceted approach includes advocating for policies that propel environmental sustainability within radiology organizations, offering educational opportunities to foster sustainability in both radiology and broader healthcare institutions, and undertaking initiatives to systematically measure and reduce the environmental footprint of radiology.
 
+Education
+Research
+Policy
+
